@@ -1,6 +1,6 @@
-name = "{{project-name}}"
+name = "vigneshchivukula-cloudfareworker"
 type = "javascript"
-account_id = ""
+account_id = "7541c35ff0fd7b93f465cf2abbcc7c5a"
 workers_dev = true
 route = ""
 zone_id = ""
